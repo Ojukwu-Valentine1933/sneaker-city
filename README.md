@@ -1,3 +1,15 @@
+# SneakerCity Website
+
+## Introduction
+
+This repository contains the source code for the SneakerCity website, a demo site showcasing sneakers and related products. The website is built using HTML, CSS, and JavaScript, and it utilizes the Bootstrap framework for styling and layout components.
+
+## Installation
+
+To run the website locally, follow these steps:
+
+1. Clone this repository to your local machine:
+
 
 2. Open the `index.html` file in your web browser.
 
